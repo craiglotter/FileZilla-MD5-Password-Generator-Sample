@@ -1,0 +1,10 @@
+application_name = FileZilla MD5 Password Generator Sample
+application_excutable = AutoUpdate.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 2
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = FFFFFF
+application_forecolour = 273550
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe

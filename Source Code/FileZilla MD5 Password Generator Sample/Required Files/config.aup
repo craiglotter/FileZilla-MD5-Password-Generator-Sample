@@ -1,0 +1,3 @@
+APPLICATION_NAME=FileZilla MD5 Password Generator Sample
+EXECUTABLE=FileZilla MD5 Password Generator Sample.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/FileZilla MD5 Password Generator Sample/manifest.xml

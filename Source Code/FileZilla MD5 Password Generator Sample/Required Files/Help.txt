@@ -1,0 +1,8 @@
+FileZilla FTP Server uses a simple xml file to store its user account information. I have an interest in automating FTP account creation for this server, and this application shows how to generate the MD5 hash that FileZilla uses for its password storage. The application makes use of Visual Studio's built in System.Cryptography NameSpace.
+
+To generate a MD5 Hash of a password, simply enter a password in the textbox and hit the 'generate hash' key.
+
+The Help and About menu options call up their respective dialogs.
+
+
+-- Last Updated: 29/11/2007 --
